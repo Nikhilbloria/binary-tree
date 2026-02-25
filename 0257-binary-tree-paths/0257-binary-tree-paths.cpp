@@ -13,27 +13,19 @@ class Solution {
 public:
     vector<string> binaryTreePaths(TreeNode* root) {
         vector<string> result;
-        
-        if (!root) return result;
-
-        // If leaf node
-        if (!root->left && !root->right) {
+        if(!root)return {};
+        if(!root->left&&!root->right){
             result.push_back(to_string(root->val));
             return result;
         }
-
-        // Left subtree
-        vector<string> leftPaths = binaryTreePaths(root->left);
-        for (string path : leftPaths) {
-            result.push_back(to_string(root->val) + "->" + path);
+        vector<string>leftpath = binaryTreePaths(root->left);
+        for(string path:leftpath){
+            result.push_back(to_string(root->val)+"->"+path);
         }
-
-        // Right subtree
-        vector<string> rightPaths = binaryTreePaths(root->right);
-        for (string path : rightPaths) {
-            result.push_back(to_string(root->val) + "->" + path);
+        vector<string>rightpath = binaryTreePaths(root->right);
+        for(string path:rightpath){
+            result.push_back(to_string(root->val)+"->"+path);
         }
-
         return result;
     }
 };
