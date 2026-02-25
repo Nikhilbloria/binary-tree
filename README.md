@@ -9,6 +9,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/Nikhilbloria/binary-tree/tree/master/0257-binary-tree-paths) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikhilbloria/binary-tree/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -19,6 +20,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/Nikhilbloria/binary-tree/tree/master/0257-binary-tree-paths) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikhilbloria/binary-tree/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
@@ -38,6 +40,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/Nikhilbloria/binary-tree/tree/master/0257-binary-tree-paths) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikhilbloria/binary-tree/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Array
 |  |
@@ -55,4 +58,12 @@
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Nikhilbloria/binary-tree/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Nikhilbloria/binary-tree/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
