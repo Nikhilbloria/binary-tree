@@ -39,4 +39,20 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0112-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikhilbloria/binary-tree/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Array
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
