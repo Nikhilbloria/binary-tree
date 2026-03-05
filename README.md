@@ -74,6 +74,7 @@
 | [0257-binary-tree-paths](https://github.com/Nikhilbloria/binary-tree/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nikhilbloria/binary-tree/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nikhilbloria/binary-tree/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Nikhilbloria/binary-tree/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Backtracking
 |  |
 | ------- |
