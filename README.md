@@ -82,6 +82,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nikhilbloria/binary-tree/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Nikhilbloria/binary-tree/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Nikhilbloria/binary-tree/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nikhilbloria/binary-tree/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nikhilbloria/binary-tree/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nikhilbloria/binary-tree/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
 |  |
@@ -126,4 +128,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nikhilbloria/binary-tree/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilbloria/binary-tree/tree/master/0144-binary-tree-preorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nikhilbloria/binary-tree/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
