@@ -17,6 +17,6 @@ public:
                     return false;
                 }
             }
-        }return st.empty();
+        }return st.empty();//if stack is empty return true if stack has"({[" then it will retun false
     }
 };
