@@ -79,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nikhilbloria/binary-tree/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Nikhilbloria/binary-tree/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nikhilbloria/binary-tree/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nikhilbloria/binary-tree/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -131,6 +132,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nikhilbloria/binary-tree/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nikhilbloria/binary-tree/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilbloria/binary-tree/tree/master/0144-binary-tree-preorder-traversal) |
 ## Dynamic Programming
