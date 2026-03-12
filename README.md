@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nikhilbloria/binary-tree/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nikhilbloria/binary-tree/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nikhilbloria/binary-tree/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
 |  |
 | ------- |
@@ -139,4 +141,16 @@
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nikhilbloria/binary-tree/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nikhilbloria/binary-tree/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nikhilbloria/binary-tree/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nikhilbloria/binary-tree/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
