@@ -5,13 +5,12 @@ public:
         int endRow = x+k-1;
         int startCol = y;
         int endCol = y+k-1;
-        for(int i= startRow;i<=endRow;i++){
+        while(startRow<endRow){
             for(int j = startCol;j<=endCol;j++){
-                swap(grid[i][j],grid[endRow][j]);
+                swap(grid[startRow][j],grid[endRow][j]);
             }
+            startRow++;
             endRow--;
-
-        }
-        return grid;
+        }return grid;
     }
 };
