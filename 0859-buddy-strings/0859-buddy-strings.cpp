@@ -3,10 +3,9 @@ public:
     bool checkFreq(string s){
         int arr[26] = {0};
         for(char &ch:s){
-            arr[ch - 'a']++;
-            if(arr[ch-'a']>1){
+            arr[ch-'a']++;
+            if(arr[ch-'a']>1)
                 return true;
-            }
         }return false;
     }
     bool buddyStrings(string s, string goal) {
@@ -16,16 +15,16 @@ public:
         if(s==goal){
             return checkFreq(s);
         }
-        vector<int>indices;
+        vector<int>ans;
         for(int i=0;i<s.length();i++){
             if(s[i]!=goal[i]){
-                indices.push_back(i);
+                ans.push_back(i);
             }
         }
-        if(indices.size()!=2){
+        if(ans.size()!=2){
             return false;
         }
-        swap(s[indices[0]],s[indices[1]]);
-        return s == goal;
+        swap(s[ans[0]],s[ans[1]]);
+        return s==goal;
     }
 };
