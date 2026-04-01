@@ -69,6 +69,7 @@
 | [2751-robot-collisions](https://github.com/Nikhilbloria/binary-tree/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Nikhilbloria/binary-tree/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nikhilbloria/binary-tree/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nikhilbloria/binary-tree/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nikhilbloria/binary-tree/tree/master/3643-flip-square-submatrix-vertically) |
@@ -118,6 +119,7 @@
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nikhilbloria/binary-tree/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nikhilbloria/binary-tree/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nikhilbloria/binary-tree/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
 |  |
@@ -197,10 +200,12 @@
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Prefix Sum
 |  |
 | ------- |
