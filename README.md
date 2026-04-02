@@ -201,6 +201,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0009-palindrome-number) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
