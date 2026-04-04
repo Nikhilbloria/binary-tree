@@ -110,6 +110,7 @@
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nikhilbloria/binary-tree/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nikhilbloria/binary-tree/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Nikhilbloria/binary-tree/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Nikhilbloria/binary-tree/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
 ## Backtracking
 |  |
@@ -170,6 +171,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Nikhilbloria/binary-tree/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Nikhilbloria/binary-tree/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2751-robot-collisions](https://github.com/Nikhilbloria/binary-tree/tree/master/2751-robot-collisions) |
 ## Stack
