@@ -102,6 +102,7 @@
 | [0020-valid-parentheses](https://github.com/Nikhilbloria/binary-tree/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Nikhilbloria/binary-tree/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Nikhilbloria/binary-tree/tree/master/0290-word-pattern) |
+| [0657-robot-return-to-origin](https://github.com/Nikhilbloria/binary-tree/tree/master/0657-robot-return-to-origin) |
 | [0859-buddy-strings](https://github.com/Nikhilbloria/binary-tree/tree/master/0859-buddy-strings) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nikhilbloria/binary-tree/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nikhilbloria/binary-tree/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -171,6 +172,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Nikhilbloria/binary-tree/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nikhilbloria/binary-tree/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Nikhilbloria/binary-tree/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2751-robot-collisions](https://github.com/Nikhilbloria/binary-tree/tree/master/2751-robot-collisions) |
