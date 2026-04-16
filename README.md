@@ -59,6 +59,7 @@
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0503-next-greater-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nikhilbloria/binary-tree/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0977-squares-of-a-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Nikhilbloria/binary-tree/tree/master/1029-two-city-scheduling) |
 | [1169-invalid-transactions](https://github.com/Nikhilbloria/binary-tree/tree/master/1169-invalid-transactions) |
 | [1200-minimum-absolute-difference](https://github.com/Nikhilbloria/binary-tree/tree/master/1200-minimum-absolute-difference) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Nikhilbloria/binary-tree/tree/master/1029-two-city-scheduling) |
 | [1169-invalid-transactions](https://github.com/Nikhilbloria/binary-tree/tree/master/1169-invalid-transactions) |
 | [1200-minimum-absolute-difference](https://github.com/Nikhilbloria/binary-tree/tree/master/1200-minimum-absolute-difference) |
@@ -242,6 +244,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0977-squares-of-a-sorted-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nikhilbloria/binary-tree/tree/master/3643-flip-square-submatrix-vertically) |
 ## Monotonic Stack
 |  |
