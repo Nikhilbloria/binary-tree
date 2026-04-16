@@ -73,6 +73,7 @@
 | [2906-construct-product-matrix](https://github.com/Nikhilbloria/binary-tree/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nikhilbloria/binary-tree/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/Nikhilbloria/binary-tree/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nikhilbloria/binary-tree/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nikhilbloria/binary-tree/tree/master/3643-flip-square-submatrix-vertically) |
@@ -155,6 +156,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nikhilbloria/binary-tree/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nikhilbloria/binary-tree/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/Nikhilbloria/binary-tree/tree/master/1980-find-unique-binary-string) |
+| [3488-closest-equal-element-queries](https://github.com/Nikhilbloria/binary-tree/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Rolling Hash
 |  |
@@ -169,6 +171,7 @@
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nikhilbloria/binary-tree/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/Nikhilbloria/binary-tree/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nikhilbloria/binary-tree/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nikhilbloria/binary-tree/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sliding Window
