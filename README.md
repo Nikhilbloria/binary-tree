@@ -56,6 +56,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Nikhilbloria/binary-tree/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Nikhilbloria/binary-tree/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0503-next-greater-element-ii) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Nikhilbloria/binary-tree/tree/master/0053-maximum-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nikhilbloria/binary-tree/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Nikhilbloria/binary-tree/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -265,4 +267,8 @@
 |  |
 | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3548-equal-sum-grid-partition-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Nikhilbloria/binary-tree/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
