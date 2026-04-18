@@ -59,6 +59,7 @@
 | [0053-maximum-subarray](https://github.com/Nikhilbloria/binary-tree/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Nikhilbloria/binary-tree/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0503-next-greater-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nikhilbloria/binary-tree/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/Nikhilbloria/binary-tree/tree/master/0905-sort-array-by-parity) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Nikhilbloria/binary-tree/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Nikhilbloria/binary-tree/tree/master/1029-two-city-scheduling) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Nikhilbloria/binary-tree/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
 | [0859-buddy-strings](https://github.com/Nikhilbloria/binary-tree/tree/master/0859-buddy-strings) |
 | [1169-invalid-transactions](https://github.com/Nikhilbloria/binary-tree/tree/master/1169-invalid-transactions) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nikhilbloria/binary-tree/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -187,6 +190,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nikhilbloria/binary-tree/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/Nikhilbloria/binary-tree/tree/master/3488-closest-equal-element-queries) |
@@ -262,6 +266,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Nikhilbloria/binary-tree/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nikhilbloria/binary-tree/tree/master/2108-find-first-palindromic-string-in-the-array) |
