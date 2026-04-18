@@ -237,6 +237,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nikhilbloria/binary-tree/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Nikhilbloria/binary-tree/tree/master/3783-mirror-distance-of-an-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
