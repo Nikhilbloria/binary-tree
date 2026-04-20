@@ -14,26 +14,39 @@ public:
 //     }
 // };
 
-int maxDistance(vector<int>& colors) {
-    int n = colors.size();
-    int ans = 0;
+// int maxDistance(vector<int>& colors) {
+//     int n = colors.size();
+//     int ans = 0;
 
-    // Compare with first element
-    for(int i = n - 1; i >= 0; i--) {
-        if(colors[i] != colors[0]) {
-            ans = max(ans, i - 0);
-            break;
-        }
+//     // Compare with first element
+//     for(int i = n - 1; i >= 0; i--) {
+//         if(colors[i] != colors[0]) {
+//             ans = max(ans, i - 0);
+//             break;
+//         }
+//     }
+
+//     // Compare with last element
+//     for(int i = 0; i < n; i++) {
+//         if(colors[i] != colors[n - 1]) {
+//             ans = max(ans, (n - 1) - i);
+//             break;
+//         }
+//     }
+
+//     return ans;
+// }
+// };
+    int maxDistance(vector<int>& colors) {
+        int n = colors.size();
+        int left = 0;
+        int right = n-1;
+        int ans = 0;
+        while(colors[left]==colors[right])right--;
+        ans = max(ans,right-left);
+        right=n-1;
+        while(colors[left]==colors[right])left++;
+        ans = max(ans,right-left);
+        return ans;
     }
-
-    // Compare with last element
-    for(int i = 0; i < n; i++) {
-        if(colors[i] != colors[n - 1]) {
-            ans = max(ans, (n - 1) - i);
-            break;
-        }
-    }
-
-    return ans;
-}
 };
