@@ -96,6 +96,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/0191-number-of-1-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Nikhilbloria/binary-tree/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nikhilbloria/binary-tree/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -292,4 +293,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilbloria/binary-tree/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
