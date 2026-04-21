@@ -29,6 +29,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nikhilbloria/binary-tree/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikhilbloria/binary-tree/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Nikhilbloria/binary-tree/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Nikhilbloria/binary-tree/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Nikhilbloria/binary-tree/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1816-truncate-sentence](https://github.com/Nikhilbloria/binary-tree/tree/master/1816-truncate-sentence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nikhilbloria/binary-tree/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -234,6 +236,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Nikhilbloria/binary-tree/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nikhilbloria/binary-tree/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
