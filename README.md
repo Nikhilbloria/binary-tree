@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Nikhilbloria/binary-tree/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nikhilbloria/binary-tree/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nikhilbloria/binary-tree/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/0338-counting-bits) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nikhilbloria/binary-tree/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Nikhilbloria/binary-tree/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
