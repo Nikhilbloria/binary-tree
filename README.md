@@ -131,6 +131,7 @@
 | [0020-valid-parentheses](https://github.com/Nikhilbloria/binary-tree/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Nikhilbloria/binary-tree/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Nikhilbloria/binary-tree/tree/master/0290-word-pattern) |
+| [0402-remove-k-digits](https://github.com/Nikhilbloria/binary-tree/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/Nikhilbloria/binary-tree/tree/master/0657-robot-return-to-origin) |
 | [0859-buddy-strings](https://github.com/Nikhilbloria/binary-tree/tree/master/0859-buddy-strings) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nikhilbloria/binary-tree/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -156,6 +157,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Nikhilbloria/binary-tree/tree/master/0402-remove-k-digits) |
 | [1029-two-city-scheduling](https://github.com/Nikhilbloria/binary-tree/tree/master/1029-two-city-scheduling) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nikhilbloria/binary-tree/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -227,6 +229,7 @@
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nikhilbloria/binary-tree/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilbloria/binary-tree/tree/master/0144-binary-tree-preorder-traversal) |
+| [0402-remove-k-digits](https://github.com/Nikhilbloria/binary-tree/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0503-next-greater-element-ii) |
 | [2751-robot-collisions](https://github.com/Nikhilbloria/binary-tree/tree/master/2751-robot-collisions) |
 ## Dynamic Programming
@@ -290,6 +293,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Nikhilbloria/binary-tree/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0503-next-greater-element-ii) |
 ## Enumeration
 |  |
