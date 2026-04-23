@@ -1,17 +1,21 @@
 class Solution {
 public:
-vector<vector<int>> subsets(vector<int>& nums) {
-vector<vector<int>> result = {{}};
+    void printSub(vector<vector<int>>&ans,vector<int>&temp,vector<int>&nums,int i){
+        if(i==nums.size()){
+            ans.push_back(temp);
+            return;
+        }
+        temp.push_back(nums[i]);
+        printSub(ans, temp, nums, i+1); 
 
-for (int num : nums) {
-int size = result.size();
-for (int i = 0; i < size; i++) {
-vector<int> temp = result[i];
-temp.push_back(num);
-result.push_back(temp);
-}
-}
+        temp.pop_back();//backtracking
+        printSub(ans,temp,nums,i+1);
 
-return result;
-}
+    }
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>>ans;
+        vector<int>temp;
+        printSub(ans,temp,nums,0);
+        return ans;
+    }
 };
