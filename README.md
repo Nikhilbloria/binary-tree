@@ -86,6 +86,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nikhilbloria/binary-tree/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Nikhilbloria/binary-tree/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/Nikhilbloria/binary-tree/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Nikhilbloria/binary-tree/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Nikhilbloria/binary-tree/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nikhilbloria/binary-tree/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -194,6 +195,7 @@
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nikhilbloria/binary-tree/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/Nikhilbloria/binary-tree/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2615-sum-of-distances](https://github.com/Nikhilbloria/binary-tree/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/Nikhilbloria/binary-tree/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nikhilbloria/binary-tree/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2615-sum-of-distances](https://github.com/Nikhilbloria/binary-tree/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Nikhilbloria/binary-tree/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Nikhilbloria/binary-tree/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nikhilbloria/binary-tree/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
