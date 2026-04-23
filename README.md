@@ -70,6 +70,7 @@
 | [1029-two-city-scheduling](https://github.com/Nikhilbloria/binary-tree/tree/master/1029-two-city-scheduling) |
 | [1169-invalid-transactions](https://github.com/Nikhilbloria/binary-tree/tree/master/1169-invalid-transactions) |
 | [1200-minimum-absolute-difference](https://github.com/Nikhilbloria/binary-tree/tree/master/1200-minimum-absolute-difference) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Nikhilbloria/binary-tree/tree/master/1222-queens-that-can-attack-the-king) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Nikhilbloria/binary-tree/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -167,6 +168,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1222-queens-that-can-attack-the-king](https://github.com/Nikhilbloria/binary-tree/tree/master/1222-queens-that-can-attack-the-king) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nikhilbloria/binary-tree/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Nikhilbloria/binary-tree/tree/master/0657-robot-return-to-origin) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Nikhilbloria/binary-tree/tree/master/1222-queens-that-can-attack-the-king) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nikhilbloria/binary-tree/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Nikhilbloria/binary-tree/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2751-robot-collisions](https://github.com/Nikhilbloria/binary-tree/tree/master/2751-robot-collisions) |
