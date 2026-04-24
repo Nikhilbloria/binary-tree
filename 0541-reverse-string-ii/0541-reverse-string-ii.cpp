@@ -6,7 +6,7 @@ public:
         for(int i = 0; i < n; i += 2*k) {
             int left = i;
             int right = min(i + k - 1, n - 1);
-
+            // n-1 tell us to stop at last index so that k will not go out of bounds
             while(left < right) {
                 swap(s[left], s[right]);
                 left++;
