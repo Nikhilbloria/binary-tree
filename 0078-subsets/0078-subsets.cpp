@@ -2,7 +2,7 @@ class Solution {
 public:
     void totalSubsets(vector<int> &nums,vector<int> &ans,int i,vector<vector<int>> &allSubset){
         if(i == nums.size()){
-            allSubset.push_back({ans});
+            allSubset.push_back(ans);
             return;
         }
         ans.push_back(nums[i]);
@@ -14,6 +14,7 @@ public:
         vector<vector<int>> allSubset;
         vector<int>ans;
         totalSubsets(nums,ans,0,allSubset);
+        //arguments that are passed should be in proper order at every place
         return allSubset;
     }
 };
