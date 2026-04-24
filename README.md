@@ -131,6 +131,7 @@
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nikhilbloria/binary-tree/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2833-furthest-point-from-origin](https://github.com/Nikhilbloria/binary-tree/tree/master/2833-furthest-point-from-origin) |
 ## String
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nikhilbloria/binary-tree/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nikhilbloria/binary-tree/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/Nikhilbloria/binary-tree/tree/master/2833-furthest-point-from-origin) |
 ## Backtracking
 |  |
 | ------- |
