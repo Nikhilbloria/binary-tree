@@ -1,21 +1,19 @@
 class Solution {
 public:
-    void printSub(vector<vector<int>>&ans,vector<int>&temp,vector<int>&nums,int i){
-        if(i==nums.size()){
-            ans.push_back(temp);
+    void totalSubsets(vector<int> &nums,vector<int> &ans,int i,vector<vector<int>> &allSubset){
+        if(i == nums.size()){
+            allSubset.push_back({ans});
             return;
         }
-        temp.push_back(nums[i]);
-        printSub(ans, temp, nums, i+1); 
-
-        temp.pop_back();//backtracking
-        printSub(ans,temp,nums,i+1);
-
+        ans.push_back(nums[i]);
+        totalSubsets(nums,ans,i+1,allSubset);
+        ans.pop_back();
+        totalSubsets(nums,ans,i+1,allSubset);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>ans;
-        vector<int>temp;
-        printSub(ans,temp,nums,0);
-        return ans;
+        vector<vector<int>> allSubset;
+        vector<int>ans;
+        totalSubsets(nums,ans,0,allSubset);
+        return allSubset;
     }
 };
