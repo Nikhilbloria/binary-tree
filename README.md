@@ -139,6 +139,7 @@
 | [0257-binary-tree-paths](https://github.com/Nikhilbloria/binary-tree/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Nikhilbloria/binary-tree/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/Nikhilbloria/binary-tree/tree/master/0402-remove-k-digits) |
+| [0541-reverse-string-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Nikhilbloria/binary-tree/tree/master/0657-robot-return-to-origin) |
 | [0859-buddy-strings](https://github.com/Nikhilbloria/binary-tree/tree/master/0859-buddy-strings) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nikhilbloria/binary-tree/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -299,6 +300,7 @@
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/Nikhilbloria/binary-tree/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nikhilbloria/binary-tree/tree/master/2108-find-first-palindromic-string-in-the-array) |
