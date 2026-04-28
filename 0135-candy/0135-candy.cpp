@@ -34,6 +34,11 @@ public:
                 candies[i - 1] = max(candies[i] + 1, candies[i - 1]);
             cnt += candies[i - 1];
         }
-        return cnt + candies[n - 1];
+        // return cnt + candies[n - 1]; OR
+        int total = 0;
+        for(int c:candies){
+            total+=c;
+        }
+        return total;
     }
 };
