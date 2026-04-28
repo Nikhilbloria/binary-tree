@@ -61,6 +61,7 @@
 | [0039-combination-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nikhilbloria/binary-tree/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Nikhilbloria/binary-tree/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Nikhilbloria/binary-tree/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Nikhilbloria/binary-tree/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Nikhilbloria/binary-tree/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Nikhilbloria/binary-tree/tree/master/0402-remove-k-digits) |
 | [1029-two-city-scheduling](https://github.com/Nikhilbloria/binary-tree/tree/master/1029-two-city-scheduling) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -257,6 +259,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nikhilbloria/binary-tree/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Nikhilbloria/binary-tree/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/0338-counting-bits) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nikhilbloria/binary-tree/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
