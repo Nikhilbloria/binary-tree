@@ -57,6 +57,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
@@ -204,6 +205,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Nikhilbloria/binary-tree/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
