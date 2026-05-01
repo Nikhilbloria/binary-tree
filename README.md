@@ -69,6 +69,7 @@
 | [0090-subsets-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Nikhilbloria/binary-tree/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilbloria/binary-tree/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Nikhilbloria/binary-tree/tree/master/0396-rotate-function) |
@@ -114,6 +115,7 @@
 | [0090-subsets-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Nikhilbloria/binary-tree/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Nikhilbloria/binary-tree/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nikhilbloria/binary-tree/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Nikhilbloria/binary-tree/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0977-squares-of-a-sorted-array) |
@@ -210,6 +213,7 @@
 | [0001-two-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilbloria/binary-tree/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Nikhilbloria/binary-tree/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
 | [0859-buddy-strings](https://github.com/Nikhilbloria/binary-tree/tree/master/0859-buddy-strings) |
@@ -233,6 +237,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nikhilbloria/binary-tree/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -297,6 +302,7 @@
 | [0009-palindrome-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Nikhilbloria/binary-tree/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Nikhilbloria/binary-tree/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/Nikhilbloria/binary-tree/tree/master/0396-rotate-function) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
