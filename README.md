@@ -68,6 +68,7 @@
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Nikhilbloria/binary-tree/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilbloria/binary-tree/tree/master/0334-increasing-triplet-subsequence) |
@@ -301,6 +302,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Nikhilbloria/binary-tree/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Nikhilbloria/binary-tree/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/Nikhilbloria/binary-tree/tree/master/0396-rotate-function) |
@@ -328,6 +330,7 @@
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/Nikhilbloria/binary-tree/tree/master/0905-sort-array-by-parity) |
