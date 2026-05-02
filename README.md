@@ -278,6 +278,7 @@
 | [0055-jump-game](https://github.com/Nikhilbloria/binary-tree/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Nikhilbloria/binary-tree/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Nikhilbloria/binary-tree/tree/master/0788-rotated-digits) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nikhilbloria/binary-tree/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Nikhilbloria/binary-tree/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -306,6 +307,7 @@
 | [0231-power-of-two](https://github.com/Nikhilbloria/binary-tree/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/Nikhilbloria/binary-tree/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Nikhilbloria/binary-tree/tree/master/0788-rotated-digits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nikhilbloria/binary-tree/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
