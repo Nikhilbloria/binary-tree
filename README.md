@@ -92,6 +92,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nikhilbloria/binary-tree/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Nikhilbloria/binary-tree/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nikhilbloria/binary-tree/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nikhilbloria/binary-tree/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nikhilbloria/binary-tree/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -136,6 +137,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nikhilbloria/binary-tree/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2751-robot-collisions](https://github.com/Nikhilbloria/binary-tree/tree/master/2751-robot-collisions) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nikhilbloria/binary-tree/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nikhilbloria/binary-tree/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -201,6 +203,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nikhilbloria/binary-tree/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Nikhilbloria/binary-tree/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Nikhilbloria/binary-tree/tree/master/2906-construct-product-matrix) |
@@ -309,6 +312,7 @@
 | [0396-rotate-function](https://github.com/Nikhilbloria/binary-tree/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Nikhilbloria/binary-tree/tree/master/0788-rotated-digits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nikhilbloria/binary-tree/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nikhilbloria/binary-tree/tree/master/3783-mirror-distance-of-an-integer) |
