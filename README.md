@@ -61,6 +61,7 @@
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Nikhilbloria/binary-tree/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Nikhilbloria/binary-tree/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nikhilbloria/binary-tree/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Nikhilbloria/binary-tree/tree/master/0066-plus-one) |
@@ -200,6 +201,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nikhilbloria/binary-tree/tree/master/0048-rotate-image) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Nikhilbloria/binary-tree/tree/master/1222-queens-that-can-attack-the-king) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -308,6 +310,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Nikhilbloria/binary-tree/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Nikhilbloria/binary-tree/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Nikhilbloria/binary-tree/tree/master/0231-power-of-two) |
