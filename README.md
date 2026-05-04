@@ -13,6 +13,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilbloria/binary-tree/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Nikhilbloria/binary-tree/tree/master/0257-binary-tree-paths) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nikhilbloria/binary-tree/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nikhilbloria/binary-tree/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikhilbloria/binary-tree/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -52,6 +53,7 @@
 | [0112-path-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilbloria/binary-tree/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Nikhilbloria/binary-tree/tree/master/0257-binary-tree-paths) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nikhilbloria/binary-tree/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nikhilbloria/binary-tree/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikhilbloria/binary-tree/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Array
@@ -325,6 +327,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nikhilbloria/binary-tree/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Prefix Sum
@@ -372,4 +375,16 @@
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nikhilbloria/binary-tree/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nikhilbloria/binary-tree/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nikhilbloria/binary-tree/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nikhilbloria/binary-tree/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
