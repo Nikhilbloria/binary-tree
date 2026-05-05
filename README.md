@@ -286,6 +286,7 @@
 | [0042-trapping-rain-water](https://github.com/Nikhilbloria/binary-tree/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nikhilbloria/binary-tree/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nikhilbloria/binary-tree/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Nikhilbloria/binary-tree/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Nikhilbloria/binary-tree/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0509-fibonacci-number) |
@@ -315,6 +316,7 @@
 | [0009-palindrome-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Nikhilbloria/binary-tree/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Nikhilbloria/binary-tree/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Nikhilbloria/binary-tree/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Nikhilbloria/binary-tree/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
@@ -398,5 +400,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nikhilbloria/binary-tree/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
