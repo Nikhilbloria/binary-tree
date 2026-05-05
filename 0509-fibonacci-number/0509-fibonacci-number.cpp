@@ -1,15 +1,16 @@
 class Solution {
 public:
     int fib(int n) {
+        if (n <= 1) return n;
 
-        int ft = 0, st = 1;
+        vector<int> dP(n + 1);
+        dP[0] = 0;
+        dP[1] = 1;
 
-        for(int i = 1; i <= n; i++){
-            int tt = ft + st;
-            ft = st;
-            st = tt;
+        for (int i = 2; i <= n; i++) {
+            dP[i] = dP[i - 1] + dP[i - 2];
         }
 
-        return ft;
+        return dP[n];
     }
 };
