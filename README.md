@@ -40,6 +40,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0112-path-sum) |
+| [0279-perfect-squares](https://github.com/Nikhilbloria/binary-tree/tree/master/0279-perfect-squares) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Nikhilbloria/binary-tree/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
@@ -287,6 +288,7 @@
 | [0053-maximum-subarray](https://github.com/Nikhilbloria/binary-tree/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nikhilbloria/binary-tree/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Nikhilbloria/binary-tree/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Nikhilbloria/binary-tree/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Nikhilbloria/binary-tree/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Nikhilbloria/binary-tree/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0509-fibonacci-number) |
@@ -320,6 +322,7 @@
 | [0189-rotate-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Nikhilbloria/binary-tree/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Nikhilbloria/binary-tree/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/Nikhilbloria/binary-tree/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Nikhilbloria/binary-tree/tree/master/0788-rotated-digits) |
