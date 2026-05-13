@@ -169,6 +169,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nikhilbloria/binary-tree/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nikhilbloria/binary-tree/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1169-invalid-transactions](https://github.com/Nikhilbloria/binary-tree/tree/master/1169-invalid-transactions) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nikhilbloria/binary-tree/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Nikhilbloria/binary-tree/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Nikhilbloria/binary-tree/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -284,6 +285,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilbloria/binary-tree/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Nikhilbloria/binary-tree/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0503-next-greater-element-ii) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2751-robot-collisions](https://github.com/Nikhilbloria/binary-tree/tree/master/2751-robot-collisions) |
 ## Dynamic Programming
 |  |
