@@ -72,6 +72,7 @@
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Nikhilbloria/binary-tree/tree/master/0135-candy) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
@@ -254,6 +255,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nikhilbloria/binary-tree/tree/master/0744-find-smallest-letter-greater-than-target) |
