@@ -83,6 +83,7 @@
 | [0396-rotate-function](https://github.com/Nikhilbloria/binary-tree/tree/master/0396-rotate-function) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0503-next-greater-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nikhilbloria/binary-tree/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0904-fruit-into-baskets](https://github.com/Nikhilbloria/binary-tree/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Nikhilbloria/binary-tree/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nikhilbloria/binary-tree/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -237,6 +238,7 @@
 | [0290-word-pattern](https://github.com/Nikhilbloria/binary-tree/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
 | [0859-buddy-strings](https://github.com/Nikhilbloria/binary-tree/tree/master/0859-buddy-strings) |
+| [0904-fruit-into-baskets](https://github.com/Nikhilbloria/binary-tree/tree/master/0904-fruit-into-baskets) |
 | [1169-invalid-transactions](https://github.com/Nikhilbloria/binary-tree/tree/master/1169-invalid-transactions) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nikhilbloria/binary-tree/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nikhilbloria/binary-tree/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -274,6 +276,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilbloria/binary-tree/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/Nikhilbloria/binary-tree/tree/master/0904-fruit-into-baskets) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nikhilbloria/binary-tree/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nikhilbloria/binary-tree/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
