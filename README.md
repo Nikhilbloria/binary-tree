@@ -183,6 +183,7 @@
 | [1980-find-unique-binary-string](https://github.com/Nikhilbloria/binary-tree/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nikhilbloria/binary-tree/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nikhilbloria/binary-tree/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Nikhilbloria/binary-tree/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nikhilbloria/binary-tree/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/Nikhilbloria/binary-tree/tree/master/2833-furthest-point-from-origin) |
