@@ -180,6 +180,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Nikhilbloria/binary-tree/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nikhilbloria/binary-tree/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1816-truncate-sentence](https://github.com/Nikhilbloria/binary-tree/tree/master/1816-truncate-sentence) |
+| [1871-jump-game-vii](https://github.com/Nikhilbloria/binary-tree/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nikhilbloria/binary-tree/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Nikhilbloria/binary-tree/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nikhilbloria/binary-tree/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -277,6 +278,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilbloria/binary-tree/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/Nikhilbloria/binary-tree/tree/master/0904-fruit-into-baskets) |
+| [1871-jump-game-vii](https://github.com/Nikhilbloria/binary-tree/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nikhilbloria/binary-tree/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nikhilbloria/binary-tree/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
@@ -310,6 +312,7 @@
 | [0396-rotate-function](https://github.com/Nikhilbloria/binary-tree/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Nikhilbloria/binary-tree/tree/master/0788-rotated-digits) |
+| [1871-jump-game-vii](https://github.com/Nikhilbloria/binary-tree/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nikhilbloria/binary-tree/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Nikhilbloria/binary-tree/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -360,6 +363,7 @@
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nikhilbloria/binary-tree/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/Nikhilbloria/binary-tree/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/Nikhilbloria/binary-tree/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Nikhilbloria/binary-tree/tree/master/2906-construct-product-matrix) |
