@@ -189,6 +189,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nikhilbloria/binary-tree/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/Nikhilbloria/binary-tree/tree/master/2833-furthest-point-from-origin) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Nikhilbloria/binary-tree/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 | [1980-find-unique-binary-string](https://github.com/Nikhilbloria/binary-tree/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2615-sum-of-distances](https://github.com/Nikhilbloria/binary-tree/tree/master/2615-sum-of-distances) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Nikhilbloria/binary-tree/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3488-closest-equal-element-queries](https://github.com/Nikhilbloria/binary-tree/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
