@@ -119,6 +119,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Nikhilbloria/binary-tree/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nikhilbloria/binary-tree/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nikhilbloria/binary-tree/tree/master/3643-flip-square-submatrix-vertically) |
 | [3660-jump-game-ix](https://github.com/Nikhilbloria/binary-tree/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nikhilbloria/binary-tree/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -154,6 +155,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2751-robot-collisions](https://github.com/Nikhilbloria/binary-tree/tree/master/2751-robot-collisions) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nikhilbloria/binary-tree/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nikhilbloria/binary-tree/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Counting
 |  |
@@ -214,6 +216,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Nikhilbloria/binary-tree/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nikhilbloria/binary-tree/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -274,6 +277,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikhilbloria/binary-tree/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/Nikhilbloria/binary-tree/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nikhilbloria/binary-tree/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nikhilbloria/binary-tree/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sliding Window
 |  |
@@ -387,6 +391,7 @@
 | [0905-sort-array-by-parity](https://github.com/Nikhilbloria/binary-tree/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nikhilbloria/binary-tree/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nikhilbloria/binary-tree/tree/master/3643-flip-square-submatrix-vertically) |
 ## Monotonic Stack
 |  |
