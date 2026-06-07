@@ -16,6 +16,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nikhilbloria/binary-tree/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nikhilbloria/binary-tree/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikhilbloria/binary-tree/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Nikhilbloria/binary-tree/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nikhilbloria/binary-tree/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nikhilbloria/binary-tree/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikhilbloria/binary-tree/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Nikhilbloria/binary-tree/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nikhilbloria/binary-tree/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nikhilbloria/binary-tree/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Nikhilbloria/binary-tree/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nikhilbloria/binary-tree/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Nikhilbloria/binary-tree/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -250,6 +253,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nikhilbloria/binary-tree/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nikhilbloria/binary-tree/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/Nikhilbloria/binary-tree/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Nikhilbloria/binary-tree/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2615-sum-of-distances](https://github.com/Nikhilbloria/binary-tree/tree/master/2615-sum-of-distances) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nikhilbloria/binary-tree/tree/master/3120-count-the-number-of-special-characters-i) |
