@@ -108,6 +108,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikhilbloria/binary-tree/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nikhilbloria/binary-tree/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nikhilbloria/binary-tree/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nikhilbloria/binary-tree/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nikhilbloria/binary-tree/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nikhilbloria/binary-tree/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -298,6 +299,7 @@
 | [0657-robot-return-to-origin](https://github.com/Nikhilbloria/binary-tree/tree/master/0657-robot-return-to-origin) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Nikhilbloria/binary-tree/tree/master/1222-queens-that-can-attack-the-king) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nikhilbloria/binary-tree/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nikhilbloria/binary-tree/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Nikhilbloria/binary-tree/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2751-robot-collisions](https://github.com/Nikhilbloria/binary-tree/tree/master/2751-robot-collisions) |
 ## Stack
@@ -397,6 +399,7 @@
 | [0905-sort-array-by-parity](https://github.com/Nikhilbloria/binary-tree/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nikhilbloria/binary-tree/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nikhilbloria/binary-tree/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nikhilbloria/binary-tree/tree/master/3643-flip-square-submatrix-vertically) |
 ## Monotonic Stack
