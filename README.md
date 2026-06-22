@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nikhilbloria/binary-tree/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Nikhilbloria/binary-tree/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Nikhilbloria/binary-tree/tree/master/0905-sort-array-by-parity) |
@@ -174,6 +175,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilbloria/binary-tree/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Nikhilbloria/binary-tree/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Nikhilbloria/binary-tree/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Nikhilbloria/binary-tree/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Nikhilbloria/binary-tree/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/Nikhilbloria/binary-tree/tree/master/0402-remove-k-digits) |
@@ -248,6 +250,7 @@
 | [0001-two-sum](https://github.com/Nikhilbloria/binary-tree/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilbloria/binary-tree/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Nikhilbloria/binary-tree/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Nikhilbloria/binary-tree/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhilbloria/binary-tree/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Nikhilbloria/binary-tree/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilbloria/binary-tree/tree/master/0349-intersection-of-two-arrays) |
